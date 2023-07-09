@@ -19,4 +19,4 @@
 
 **Мой проект**
 
-* [Ссылка на проект &rarr;](https://cal1forny.github.io/)
+* [Ссылка на проект &rarr;](https://cal1forny.github.io/russian-travel/)
